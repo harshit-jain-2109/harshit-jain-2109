@@ -1,3 +1,4 @@
+![logo](https://github.com/harshit-jain-2109/harshit-jain-2109/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Harshit Jain</h1>
 <h3 align="center">🚀 DevOps Enthusiast | 👨‍💻 Engineering Graduate Passionate about automation, CI/CD, cloud, and containerization. Always learning, building, and sharing!</h3>
 
